@@ -12,3 +12,7 @@ Who uses it? It is not for your home computer or video games. It is for computer
 Safe and Steady: Even though it doesn't get new toys, it still gets "security updates". Think of this like giving the computer a check-up to make sure no bad bugs get in, without changing how it looks or works. 
 In short: Windows 10 LTSB is a "frozen" version of Windows that is very safe, very boring on purpose, and never changes, designed for machines that need to work perfectly every single time.
 Its based on first version of windows 10*
+
+LTSB/LTSC means Long-Term Servicing Windows. It’s real Windows made for important computers (like ATMs or machines) that must stay the same and not get new features. It only gets security fixes, no Store, no Cortana, no big updates.
+
+Windows 10 LTSB 2015 is based on the first release of Windows 10 (version 1507 / “TH1”). That’s why it looks old, but it’s still genuine Windows 10, just frozen in time on purpose.
